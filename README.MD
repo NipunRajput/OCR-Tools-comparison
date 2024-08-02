@@ -1,0 +1,1 @@
+Big Data Project which analysis different OCR techniques
